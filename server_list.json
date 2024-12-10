@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "Test",
+    "server": "http://172.31.81.121/backend",
+    "dlURL": "garbage.php",
+    "ulURL": "empty.php",
+    "pingURL": "empty.php",
+    "getIpURL": "getIP.php"
+  }
+]
